@@ -15,10 +15,8 @@ permalink: /about/
 ### Expertise
 
  *  Systems Engineering
-
  *  Android Development
-
- *  Java
+ *  Enterprise Java
 
 ### Industry Knowledge
 
@@ -27,12 +25,13 @@ permalink: /about/
    - Business Object Broker
 
  * Operations Research
-   - Linear Systems (Multicriterian Optimization, Multvariate Regression, Timeseries Analysis )
-   - Numerical Analysis (Nonlinear Optimization, Quadrature, Root Solving, Orthogonal Projection)
+   - Linear Systems (Multicriterian Optimization, Time Series Analysis)
+   - Numerical Analysis (Nonlinear Optimization, Orthogonal Polymonials, Quadrature)
+   - Statistics (Multvariate Regression, Singular Value Decomposition)
 
  * CADCAM Systems
    - Catia, CADAM, Camsco, Intergraph
-   - OpenInventor, Enovia, ... VRML2
+   - OpenInventor, Enovia, VRML, 2D Graphics (SVG, HTML5 Canvas, Android Canvas)
 
  * Data Modeling
    - Enterprise Data Management (Aircraft Part Assembly, Effectivities, Health and Usage Monitoring)
@@ -41,38 +40,36 @@ permalink: /about/
 ### Tools & Technologies
 
  * Operating Systems:
-   - Linux, Ubuntu (20.04),... Sun Solaris
+   - Linux, Ubuntu (20.04) ... Silicon Graphics, Sun Solaris
    - Android
    - Windows
-   - IBM Mainframes
-   - VAX,... PDP 11/34
-   - AmigaOS (C++)
+   - (IBM mainframes, VAX/PDP11, AmigaDOS, Z80 assembler)
 
- * Deployment: Docker, Android PlayStore, VMware and Hyper-V
+ * Deployment: Docker, Android PlayStore, VMware, Hyper-V
 
  * Development Envinonments:
    - Android Studio
    - Visual Studio Code
-   - NetBeans, Eclipse,... Emacs
+   - (NetBeans, Eclipse,... Emacs)
 
  * OSGi, Enterprise JavaBeans (EJB), JSP and Servlets:
-   - Apache Karaf, ServiceMix, Tomee, Glassfish,... OC4J, Orion
+   - Apache Karaf, ServiceMix, Tomee, Glassfish,... (OC4J, Orion)
      
  * Java API
    - JPA2, EclipseLink
    - GWT
    - JAX-RS, Sax, Dom, XQuery, XLink
-   - Apache Commons, Math, Lang,...
+   - Apache Commons, Math, Lang,... 
    - EMMA (control flow path coverage)
 
  * Metaprogramming
-   - Ruby, JRuby (JSR223)
-   - SWI-Prolog (constraint logic programming over finite domains, inference engine, parsing)
    - JavaScript (ES2015)
+   - Ruby, JRuby (JSR223)
+   - SWI-Prolog (constraint logic programming over finite domains, parsing)
 
  * Pretty Good Privacy (PGP)
    -  OpenPGP
    -  OpenKeychain API (Android)
    -  BouncyCastle API
-   -  YubiKey API
+   -  YubiKey
 
