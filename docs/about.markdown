@@ -45,7 +45,8 @@ permalink: /about/
    - Windows
    - (IBM mainframes, VAX/PDP11, AmigaDOS, Z80 assembler)
 
- * Deployment: Docker, Android PlayStore, VMware, Hyper-V
+ * Deployment: 
+   - Docker, Android PlayStore, VMware, Hyper-V
 
  * Development Envinonments:
    - Android Studio
