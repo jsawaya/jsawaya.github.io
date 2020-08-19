@@ -7,9 +7,9 @@ categories: java update
 
 ## JARS and API's
    
-	 antlr-4.8-complete.jar - parsing, ast
+* antlr-4.8-complete.jar - parsing, ast
 
-	 apache commons
+* apache commons
    - commons-beanutils-VER.jar
    - commons-cli-VER.jar
    - commons-codec-VER.jar
@@ -27,35 +27,35 @@ categories: java update
    - commons-pool-VER.jar
    - commons-validator-VER.jar
 
-	 apache cxf 3.3.7 - jax-rs / jax-ws
+*	 apache cxf 3.3.7 - jax-rs / jax-ws
 
-	 bouncycastle
+*	 bouncycastle
 
-   cern colt.jar
+*  cern colt.jar
 
-	 eclipselink 2.7.7
+*	 eclipselink 2.7.7
 
-	 emma.jar
+*	 emma.jar
 
-	 exist-db
+*	 exist-db
 
-	 google code:
+*	 google code:
    - gson
    - guava (esp. android)
    - guice
    - gwt
 
-   jama-VER.jar
+*  jama-VER.jar
 
-   jruby-complete-VER.jar
+*  jruby-complete-VER.jar
 
-	 jwetherell.jar [here]
+*	 jwetherell.jar [here]
 (https://github.com/phishman3579/java-algorithms-implementation)
 
-	 saxon(he) xml parser supports dom3, xpath3.1, xquery3.1
+*	 saxon(he) xml parser supports dom3, xpath3.1, xquery3.1
    
-   vecmath - from java3d
+*   vecmath - from java3d
 
-   velocity tools
+*   velocity tools
 	 
 
