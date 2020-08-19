@@ -73,4 +73,3 @@ permalink: /about/
    -  OpenKeychain API (Android)
    -  BouncyCastle API
    -  YubiKey
-
