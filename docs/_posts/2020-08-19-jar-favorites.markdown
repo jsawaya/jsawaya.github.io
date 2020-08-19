@@ -16,7 +16,7 @@ categories: java update
    - commons-dbcp-VER.jar
    - commons-digester-VER.jar
    - commons-discovery-VER.jar
-	 - commons-email-VER.jar
+   - commons-email-VER.jar
    - commons-fileupload-VER.jar
    - commons-httpclient-VER.jar
    - commons-io-VER.jar
@@ -40,22 +40,21 @@ categories: java update
 *	 exist-db
 
 *	 google code:
-   - gson
-   - guava (esp. android)
-   - guice
-   - gwt
+    - gson
+    - guava (esp. android)
+    - guice
+    - gwt
 
 *  jama-VER.jar
 
 *  jruby-complete-VER.jar
 
-*	 jwetherell.jar [here]
-(https://github.com/phishman3579/java-algorithms-implementation)
+*	 jwetherell.jar [here][phishman3579]
 
 *	 saxon(he) xml parser supports dom3, xpath3.1, xquery3.1
    
-*   vecmath - from java3d
+*  vecmath - from java3d
 
-*   velocity tools
+*  velocity tools
 	 
-
+[phishman3579]: https://github.com/phishman3579/java-algorithms-implementation
